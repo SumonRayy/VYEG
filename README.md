@@ -8,4 +8,4 @@
 
 # 2. [Lake Race Track](https://assetstore.unity.com/packages/3d/environments/roadways/lake-race-track-55908)
 
-[![Track](https://assetstorev1-prd-cdn.unity3d.com/key-image/9100ddc3-4780-4190-bde2-5c682efc99dd.webp)]()
+[![Track](https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/78f519a7-761e-4d73-b804-59aa0f4cf9a8.webp)]()
