@@ -1,4 +1,4 @@
-## Before Working With This Project Plese Download & Import These Files :
+## Before Working With This Project Please Download & Import These Files :
 
 <p>After Clonning The Repo Please Download & Import These Assets : </p>
 
