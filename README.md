@@ -4,7 +4,7 @@
 
 ## Before Working With This Project Please Download & Import These Files :
 
-<p>After Clonning The Repo Please Download & Import These Assets : </p>
+<p>After Clonning The Repo Please Download & Import These Assets into Unity Project : </p>
 
 ## 1. [HQ Racing Car Model No.1203](https://assetstore.unity.com/packages/3d/vehicles/land/hq-racing-car-model-no-1203-139221)
 
